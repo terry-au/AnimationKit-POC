@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33E0B7C01C995EEB007D2CDD"
-               BuildableName = "AnimationTest.app"
-               BlueprintName = "AnimationTest"
-               ReferencedContainer = "container:AnimationTest.xcodeproj">
+               BuildableName = "AnimationKit.app"
+               BlueprintName = "AnimationKit"
+               ReferencedContainer = "container:AnimationKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33E0B7D91C995EEB007D2CDD"
-               BuildableName = "AnimationTestTests.xctest"
-               BlueprintName = "AnimationTestTests"
-               ReferencedContainer = "container:AnimationTest.xcodeproj">
+               BuildableName = "AnimationKitTests.xctest"
+               BlueprintName = "AnimationKitTests"
+               ReferencedContainer = "container:AnimationKit.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33E0B7E41C995EEB007D2CDD"
-               BuildableName = "AnimationTestUITests.xctest"
-               BlueprintName = "AnimationTestUITests"
-               ReferencedContainer = "container:AnimationTest.xcodeproj">
+               BuildableName = "AnimationKitUITests.xctest"
+               BlueprintName = "AnimationKitUITests"
+               ReferencedContainer = "container:AnimationKit.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33E0B7C01C995EEB007D2CDD"
-            BuildableName = "AnimationTest.app"
-            BlueprintName = "AnimationTest"
-            ReferencedContainer = "container:AnimationTest.xcodeproj">
+            BuildableName = "AnimationKit.app"
+            BlueprintName = "AnimationKit"
+            ReferencedContainer = "container:AnimationKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33E0B7C01C995EEB007D2CDD"
-            BuildableName = "AnimationTest.app"
-            BlueprintName = "AnimationTest"
-            ReferencedContainer = "container:AnimationTest.xcodeproj">
+            BuildableName = "AnimationKit.app"
+            BlueprintName = "AnimationKit"
+            ReferencedContainer = "container:AnimationKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33E0B7C01C995EEB007D2CDD"
-            BuildableName = "AnimationTest.app"
-            BlueprintName = "AnimationTest"
-            ReferencedContainer = "container:AnimationTest.xcodeproj">
+            BuildableName = "AnimationKit.app"
+            BlueprintName = "AnimationKit"
+            ReferencedContainer = "container:AnimationKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

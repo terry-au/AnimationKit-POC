@@ -1,9 +1,9 @@
-# AnimationKit POC
+# AnimationKit
 This was a fairly successful experiment in implementing an animation engine for iOS which could allow non-animatable properties (UIAnimation) to be animated.
-The main selling feature is percent driven animations, which effectively leaves interpolation in the hands of the developer.
-This is quite simple, as the animation block provides the current animation's progress as a float 0.0-1.0.
+The main selling feature is percent driven animations, which effectively handles interpolation and the display link, so that the developer can simply apply a function to their animation.
+This is quite simple, as the animation block provides the current animation's progress as a float between 0.0-1.0.
 
-AnimationKit was going to be a fully featured framework – much of the "heavy lifting" is already done, it's just lacking documentation.
+AnimationKit is almost a fully featured framework – much of the "heavy lifting" is already done, it's just lacking documentation.
 The solution itself is quite well optimised, such that it will only dispatch animation updates on common frames, rather than every screen refresh.
 
 ## Why would I use this?
